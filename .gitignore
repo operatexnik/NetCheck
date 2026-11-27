@@ -1,0 +1,11 @@
+out/
+dist/
+dist-input/
+runs*/
+NetCheck.jar
+netcheck-test.txt
+test-result*.txt
+smoke*.txt
+*.log
+live*.png
+shot.png
